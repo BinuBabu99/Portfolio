@@ -1,0 +1,12 @@
+.footer {
+    overflow: hidden;
+    padding: 20px 10px;
+}
+
+p {
+    text-align: center;
+}
+
+p:last-child {
+    font-size: 12px;
+}

@@ -1,0 +1,28 @@
+.container {
+    padding: 5em;
+    margin: 1vh 10vw;
+}
+
+.cards {
+    display: flex;
+    display: 100%;
+}
+
+.card {
+    width: 25%;
+    height: 250px;
+    padding: 3vh 1vw;
+    margin: 2% 2%;
+    border: 2px solid #FFF;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.card:hover {
+    color: #000;
+    background-color: #FFF;
+}
+
+.card h3 {
+    margin: 1vh 0vw;
+}

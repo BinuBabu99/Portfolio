@@ -1,0 +1,70 @@
+.container {
+    background-color: rgba(255, 255, 255, 0.15);
+    margin: 8vh 15vw;
+    height: 80vh;
+    display: flex;
+    color: #FFF;
+}
+
+.image {
+    width: 40%;
+    height: 100%;
+    background-image: url(../../assets/images/my-photo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.details {
+    padding: 8em 4em;
+    line-height: 2;
+    width: 50%;
+    height: 100%;
+    text-align: left;
+}
+
+h3 {
+    margin-top: 2vh
+}
+
+.iconContainer {
+    display: flex;
+    justify-items: center;
+    align-items: center;
+}
+
+.icon {
+    width: 20px;
+    height: 20px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+a {
+    text-decoration: none;
+    color: #FFF;
+    margin-left: 1vw;
+}
+
+.phone {
+    background-image: url(../../assets/images/phone-call.png);
+}
+
+.mail {
+    background-image: url(../../assets/images/email.png);
+}
+
+.whatsapp {
+    background-image: url(../../assets/images/whatsapp.png);
+}
+
+.instagram {
+    background-image: url(../../assets/images/instagram.png);
+}
+
+.linkedin {
+    background-image: url(../../assets/images/linkedin.png);
+}
+
+.github {
+    background-image: url(../../assets/images/github.png);
+}
